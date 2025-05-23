@@ -14,7 +14,7 @@ Saya **mahasiswa Universitas Muria Kudus**, sedang menjelajahi dunia pemrograman
 - Pengembangan Bot WhatsApp yang terintegrasi AI
 
 ## 💻 Proyek Saya
-- [Hello-World](https://github.com/drshssnflh/Hello-World): Proyek pertama saya untuk mengenal GitHub!
+- [Bot WhatsApp with Baileys Lib](https://github.com/Drshssnflh1/RIssCell-Official-Bot): Proyek pertama saya untuk mengenal GitHub!
 
 ## 📊 Statistik GitHub
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=drshssnflh1&show_icons=true&theme=gruvbox&include_all_commits=true)
